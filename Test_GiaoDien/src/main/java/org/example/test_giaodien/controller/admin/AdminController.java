@@ -1,4 +1,4 @@
-package org.example.test_giaodien.controller;
+package org.example.test_giaodien.controller.admin;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
